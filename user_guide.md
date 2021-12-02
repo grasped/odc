@@ -11,4 +11,4 @@ The User Guide contains lectures that aims introducing users to Jupyter Notebook
 
 
 ## 📌 Links
-* [Table of contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#table-of-contents)
+* [Table of contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#-table-of-contents)
