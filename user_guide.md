@@ -1,4 +1,4 @@
-# User Guide
+## User Guide
 The User Guide contains lectures that aims introducing users to Jupyter Notebooks, Open Data Cube, current dataset served by this Data Cube, loading and performing basic analysis to a dataset.
 
 ### Guides
@@ -10,4 +10,5 @@ The User Guide contains lectures that aims introducing users to Jupyter Notebook
 6. Performing basic analysis
 
 
-### [Back to Table of Contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#table-of-contents)
+## Links
+* [Table of contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#table-of-contents)
