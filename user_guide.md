@@ -1,4 +1,4 @@
-## User Guide
+## ⚡️ User Guide
 The User Guide contains lectures that aims introducing users to Jupyter Notebooks, Open Data Cube, current dataset served by this Data Cube, loading and performing basic analysis to a dataset.
 
 ### Guides

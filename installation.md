@@ -1,4 +1,4 @@
-## Open Data Cube Installation and Diwata-2 SMI Indexing
+## ⚙️ Open Data Cube Installation and Diwata-2 SMI Indexing
 
 This document presents the process for installing Open Data Cube (ODC) into a local machine and proper indexing of Diwata-2 SMI dataset.
 
