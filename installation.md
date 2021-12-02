@@ -1,4 +1,4 @@
-# Installation
+# Open Data Cube Installation and Diwata-2 SMI Indexing
 
 This document presents the process for installing Open Data Cube (ODC) into a local machine and proper indexing of Diwata-2 SMI dataset.
 
@@ -59,4 +59,28 @@ datacube -v system init
 ```
 
 ### 3. Prepare indexing tools
-If the data source is coming from AWS S3, some tools are needed to index the data. Starting with `boto` and `awscli`.
+If the data source is coming from AWS S3, some tools are needed to index the data. Starting with `boto` and `awscli`. Install them using:
+
+```
+conda install aiobotocore[boto3,awscli]
+```
+or (if pip)
+```
+pip install aiobotocore[boto3,awscli]
+```
+The next package is the ODC tools itself:
+```
+pip install odc-apps-dc-tools
+```
+
+### 4. Add the product definition
+The Diwata-2 SMI dataset product definition can be added using the following. This document describes the dataset which includes projection and measurement properties of the SMI products.
+```
+datacube product add s3://diwata-missions/Diwata-2/SMI/collection/diwata_2_smi.yaml
+```
+
+### 5. Add the product definition
+Finally, the dataset documents are metadata for each data. Each one describes the capture time and location of individual band files. They can be recursively added using the following:
+```
+s3-to-dc --no-sign-request s3://diwata-missions/Diwata-2/SMI/collection/*.odc-metadata.yaml diwata_2_smi
+```
