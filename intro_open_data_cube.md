@@ -4,4 +4,5 @@ We are currently building this page. In the meantime, you can refer to DEA docum
 
 
 ## 📌 Links
+* [Main page](https://gitlab.com/grasped/odc-notebook)
 * [Table of contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#-table-of-contents)
