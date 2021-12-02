@@ -1,4 +1,4 @@
-# Open Data Cube
+# 🧊 Open Data Cube
 This page is a documentation for all related Open Data Cube development.
 ## 📌 Table of contents
 1. [Open Data Cube Installation and Diwata-2 SMI Indexing](https://gitlab.com/grasped/odc-notebook/-/blob/main/installation.md#open-data-cube-installation-and-diwata-2-smi-indexing)
