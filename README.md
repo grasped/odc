@@ -6,7 +6,7 @@
 ##### Introduction to Diwata-2 and its SMI dataset
 ##### Introduction to loading data
 ##### Introduction to plotting
-#### Performing basic analysis
+##### Performing basic analysis
 
-### 3. Appendix
-### 4. References
+### Appendix
+### References
