@@ -3,7 +3,7 @@ Diwata-2 is the second 50 kg. earth observation microsatellite of the Philippine
 
 You can track Diwata-2 through the [Diwata Tracker app](https://tracker.stamina4space.upd.edu.ph/).
 
-[![](./images/tracker.png)]
+![tracker.png](./images/tracker.PNG)
 
 
 
