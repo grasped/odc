@@ -8,3 +8,6 @@ The User Guide contains lectures that aims introducing users to Jupyter Notebook
 4. Introduction to loading data
 5. Introduction to plotting
 6. Performing basic analysis
+
+
+### [Back to Table of Contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#table-of-contents)
