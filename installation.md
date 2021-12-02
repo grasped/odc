@@ -50,7 +50,7 @@ The next step is creating an integration configuration. The following text can b
 db_hostname: localhost
 db_database: datacube
 db_username: postgres
-db_password: awserd12
+db_password: ******
 ```
 
 Finally in the ODC environment, the database can be initialized using the following:
