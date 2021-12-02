@@ -11,4 +11,7 @@ This page is a documentation for all related Open Data Cube development.
     - [Performing basic analysis](#link)
 3. [Appendix](#appendix)
 4. [References](#references)
-5. [Links](#links)
+
+## 📌 Links
+* [Top](https://gitlab.com/grasped/odc-notebook)
+* [Table of contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#-table-of-contents)
