@@ -24,11 +24,6 @@ Diwata-2 is the second 50 kg. earth observation microsatellite of the Philippine
 | band9 | Near-infrared band 9 | N865 | N860 | 865nm, 860nm |
 
 
-
-
-## 📌 References
-1. [Diwata-2](https://stamina4space.upd.edu.ph/diwata-2/)
-
 ## 📌 Links
-* [Main page](https://gitlab.com/grasped/odc-notebook)
+* [Main page](README.md)
 * [Table of contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#-table-of-contents)
