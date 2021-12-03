@@ -3,7 +3,7 @@ The User Guide contains lectures that aims introducing users to Jupyter Notebook
 
 ### Guides
 1. [Introduction to Jupyter Notebooks](intro-jupyter-notebooks.md)
-2. [Introduction to Open Data Cube](intro-jupyter-notebooks.md)
+2. [Introduction to Open Data Cube](intro-open-data-cube.md)
 3. Loading data
 4. Plotting data
 5. Performing basic analysis

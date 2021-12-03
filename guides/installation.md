@@ -86,5 +86,5 @@ s3-to-dc --no-sign-request s3://diwata-missions/Diwata-2/SMI/collection/*.odc-me
 ```
 
 ## 📌 Links
-* [Main page](README.md#-table-of-contents)
-* [Table of contents](README.md#-table-of-contents)
+* [Main page](../README.md#-table-of-contents)
+* [Table of contents](../README.md#-table-of-contents)
