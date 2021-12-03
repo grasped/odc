@@ -1,0 +1,51 @@
+---
+# Dataset
+$schema: https://schemas.opendatacube.org/dataset
+id: 5dcb7790-09ae-49b5-910b-f6e768815d4f
+
+label: diwata_2_smi_2018-11-15
+product:
+  name: diwata_2_smi
+
+crs: epsg:4326
+geometry:
+  type: Polygon
+  coordinates: [[[121.13819152685528, 16.389433914476534], [121.13819152685528, 15.649117756471139],
+      [122.32497028014902, 15.649117756471139], [122.32497028014902, 16.389433914476534],
+      [121.13819152685528, 16.389433914476534]]]
+grids:
+  default:
+    shape: [456, 731]
+    transform: [0.0016235003465030595, 0.0, 121.13819152685528, 0.0, -0.0016235003465030595,
+      16.389433914476534, 0.0, 0.0, 1.0]
+
+properties:
+  datetime: 2018-11-15 05:18:31Z
+  odc:file_format: GeoTIFF
+  odc:processing_datetime: 2021-11-27 16:43:47.901387Z
+  odc:product_family: diwata_2_smi
+
+measurements:
+  band1:
+    path: s3://diwata-missions/Diwata-2/SMI/odc/cog/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C_B1_COG.tif
+  band2:
+    path: s3://diwata-missions/Diwata-2/SMI/odc/cog/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C_B2_COG.tif
+  band3:
+    path: s3://diwata-missions/Diwata-2/SMI/odc/cog/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C_B3_COG.tif
+  band4:
+    path: s3://diwata-missions/Diwata-2/SMI/odc/cog/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C_B4_COG.tif
+  band5:
+    path: s3://diwata-missions/Diwata-2/SMI/odc/cog/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C_B5_COG.tif
+  band6:
+    path: s3://diwata-missions/Diwata-2/SMI/odc/cog/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C_B6_COG.tif
+  band7:
+    path: s3://diwata-missions/Diwata-2/SMI/odc/cog/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C_B7_COG.tif
+  band8:
+    path: s3://diwata-missions/Diwata-2/SMI/odc/cog/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C_B8_COG.tif
+  band9:
+    path: s3://diwata-missions/Diwata-2/SMI/odc/cog/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C/D2_SMI_2018-11-15T051831_2018-11-15T235959_L1C_B9_COG.tif
+
+accessories: {}
+
+lineage: {}
+...
