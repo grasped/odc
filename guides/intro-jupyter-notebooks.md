@@ -4,5 +4,6 @@ We are currently building this page. In the meantime, you can refer to DEA docum
 
 
 ## 📌 Links
+* [Introduction to Open Data Cube](intro-open-data-cube.md)
 * [Main page](https://gitlab.com/grasped/odc-notebook)
-* [Table of contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#-table-of-contents)
+* [Table of contents](../README.md#-table-of-contents)

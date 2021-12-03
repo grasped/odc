@@ -4,7 +4,7 @@ We are currently building this page. In the meantime, you can refer to DEA docum
 
 ### Background
 ### Satellite datasets in this Data Cube
-1. Diwata-2 SMI Dataset
+1. [Diwata-2 SMI Dataset](#-diwata-2-smi-dataset)
 ### Analysis Ready Data
 
 #### 🛰️ Diwata-2 SMI Dataset
@@ -25,5 +25,5 @@ Diwata-2 is the second 50 kg. earth observation microsatellite of the Philippine
 
 
 ## 📌 Links
-* [Main page](README.md#-table-of-contents)
-* [Table of contents](README.md#-table-of-contents)
+* [Main page](https://gitlab.com/grasped/odc-notebook)
+* [Table of contents](../README.md#-table-of-contents)
