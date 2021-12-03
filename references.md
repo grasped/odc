@@ -6,3 +6,8 @@
 
 ### Diwata-2
 * [Diwata-2](https://stamina4space.upd.edu.ph/diwata-2/)
+
+
+## 📌 Links
+* [Main page](README.md#-table-of-contents)
+* [Table of contents](README.md#-table-of-contents)

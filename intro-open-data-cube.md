@@ -25,5 +25,5 @@ Diwata-2 is the second 50 kg. earth observation microsatellite of the Philippine
 
 
 ## 📌 Links
-* [Main page](README.md)
-* [Table of contents](https://gitlab.com/grasped/odc-notebook/-/tree/main#-table-of-contents)
+* [Main page](README.md#-table-of-contents)
+* [Table of contents](README.md#-table-of-contents)
