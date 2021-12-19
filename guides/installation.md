@@ -31,7 +31,7 @@ conda activate odc_env
 
 Install other packages needed by ODC.
 ```
-conda install jupyter matplotlib scipy
+conda install jupyter matplotlib scipy ipyleaflet
 ```
 
 ### 3. Create database
