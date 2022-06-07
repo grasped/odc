@@ -1,0 +1,63 @@
+---
+name: diwata2_smi_l1c
+description: Diwata-2 SMI L1C Dataset Cloud Optimized GeoTiFF
+metadata_type: eo3
+metadata:
+  product:
+    name: diwata2_smi_l1c
+
+measurements:
+  - name: "band1"
+    units: "1"
+    dtype: float32
+    nodata: 0
+    spectral_definition:
+      wavelength: [490]
+  - name: "band2"
+    units: "1"
+    dtype: float32
+    nodata: 0
+    spectral_definition:
+      wavelength: [550]
+  - name: "band3"
+    units: "1"
+    dtype: float32
+    nodata: 0
+    spectral_definition:
+      wavelength: [620]
+  - name: "band4"
+    units: "1"
+    dtype: float32
+    nodata: 0
+    spectral_definition:
+      wavelength: [670]
+  - name: "band5"
+    units: "1"
+    dtype: float32
+    nodata: 0
+    spectral_definition:
+      wavelength: [708, 710]
+  - name: "band6"
+    units: "1"
+    dtype: float32
+    nodata: 0
+    spectral_definition:
+      wavelength: [740]
+  - name: "band7"
+    units: "1"
+    dtype: float32
+    nodata: 0
+    spectral_definition:
+      wavelength: [753, 760]
+  - name: "band8"
+    units: "1"
+    dtype: float32
+    nodata: 0
+    spectral_definition:
+      wavelength: [778, 780]
+  - name: "band9"
+    units: "1"
+    dtype: float32
+    nodata: 0
+    spectral_definition:
+      wavelength: [860, 865]

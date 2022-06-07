@@ -13,15 +13,15 @@ Diwata-2 is the second 50 kg. earth observation microsatellite of the Philippine
 ##### Band names
 | Name | Description | Operational Band | Alternate Band | Wavelengths |
 | ----- | ----- | ----- | ----- | ----- |
-| band1 | Visible band 1 | V490 | N/A | 490nm |
-| band2 | Visible band 2 | V550 | N/A | 550nm |
-| band3 | Visible band 3 | V620 | N/A | 620nm |
-| band4 | Visible band 4 | V670 | N/A | 670nm |
-| band5 | Visible band 5 | V708 | V710 | 708nm, 710nm |
-| band6 | Near-infrared band 6 | N740 | N/A | 740nm |
-| band7 | Near-infrared band 7 | N753 | N760 | 753nm, 760nm |
-| band8 | Near-infrared band 8 | N778 | N780 | 778nm, 780nm |
-| band9 | Near-infrared band 9 | N865 | N860 | 865nm, 860nm |
+| band1 | Visible band 1, Blue | V490 | N/A | 490nm |
+| band2 | Visible band 2, Green | V550 | N/A | 550nm |
+| band3 | Visible band 3, Yellow | V620 | N/A | 620nm |
+| band4 | Visible band 4, Red 1 | V670 | N/A | 670nm |
+| band5 | Visible band 5, Red 2 | V708 | V710 | 708nm, 710nm |
+| band6 | Near-infrared band 1, NIR 1 | N740 | N/A | 740nm |
+| band7 | Near-infrared band 2, NIR 2 | N753 | N760 | 753nm, 760nm |
+| band8 | Near-infrared band 3, NIR 3 | N778 | N780 | 778nm, 780nm |
+| band9 | Near-infrared band 4, NIR 4 | N865 | N860 | 865nm, 860nm |
 
 
 ## 📌 Links

@@ -31,7 +31,7 @@ conda activate odc_env
 
 Install other packages needed by ODC.
 ```
-conda install jupyter matplotlib scipy ipyleaflet
+conda install jupyter matplotlib scipy ipyleaflet geopandas scikit-learn-intelex
 ```
 
 ### 3. Create database
@@ -78,11 +78,34 @@ The Diwata-2 SMI dataset product definition can be added using the following. Th
 ```
 datacube product add s3://diwata-missions/Diwata-2/SMI/collection/diwata_2_smi.yaml
 ```
+or
+```
+datacube product add https://diwata2-odc.s3.us-east-2.amazonaws.com/eo3-product/diwata2_smi_l1c.odc-product.yaml
+```
 
 ### 5. Add the product definition
 Finally, the dataset documents are metadata for each data. Each one describes the capture time and location of individual band files. They can be recursively added using the following:
 ```
 s3-to-dc --no-sign-request s3://diwata-missions/Diwata-2/SMI/collection/*.odc-metadata.yaml diwata_2_smi
+```
+or
+```
+s3-to-dc --no-sign-request https://diwata2-odc.s3.us-east-2.amazonaws.com/eo3/*.odc-metadata.yaml diwata2_smi_l1c
+
+s3-to-dc --no-sign-request s3://diwata2-odc/eo3/*.odc-metadata.yaml diwata2_smi_l1c
+```
+
+### 6. Install DEA Tools
+```
+pip install dea-tools
+```
+
+
+### Misc. Shortcut
+```
+conda create --name odc_env --channel conda-forge python=3.8 datacube jupyter matplotlib scipy ipyleaflet geopandas scikit-learn aiobotocore[boto3,awscli] dask-ml rasterstats geopy pydotplus
+
+pip install odc-apps-dc-tools dea-tools
 ```
 
 ## 📌 Links
